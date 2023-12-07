@@ -15,10 +15,10 @@ N=4000 #nombre de particule test
 tini=0 #fm/c temps initial
 tfin=30 # temps final
 Npas=20 #nombre de pas temporel
-A=100 #A du noyaux seul
+A=100 #A du noyau seul
 
-A1=200 #A du noyaux 1 pour le cas de collision
-A2=200 #A du noyaux 2
+A1=200 #A du noyau 1 pour le cas de collision
+A2=200 #A du noyau 2
 distance=8  # distance entre les noyaux
 R1=distance
 R2=-distance
